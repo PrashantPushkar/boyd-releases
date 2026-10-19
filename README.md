@@ -2,7 +2,7 @@
 
 **Brain On Your Device.**
 
-[Download the Windows 0.6.0 preview](https://github.com/PrashantPushkar/boyd-releases/releases/download/v0.6.0/BOYD-0.6.0-win-x64.zip) · [Release notes](https://github.com/PrashantPushkar/boyd-releases/releases/tag/v0.6.0) · [Product page](https://hridaanlabs.com/boyd)
+[Download the Windows 0.7.0 preview](https://github.com/PrashantPushkar/boyd-releases/releases/download/v0.7.0/BOYD-0.7.0-win-x64.zip) · [Release notes](https://github.com/PrashantPushkar/boyd-releases/releases/tag/v0.7.0) · [Product page](https://hridaanlabs.com/boyd)
 
 This public repository distributes BOYD preview packages, SHA-256 checksums and signed update metadata. The development repository and all personal data are separate. The downloadable JavaScript application is readable as part of the installed runtime; publishing this distribution repository does not grant an open-source licence to the original BOYD application. Third-party components retain their bundled licences.
 
