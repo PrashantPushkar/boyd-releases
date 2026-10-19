@@ -1,13 +1,13 @@
 {
   "payload": {
-    "version": "0.7.0",
-    "publishedAt": "2026-10-19T08:05:01.006Z",
-    "notes": "BOYD by Hridaan Labs Windows preview. Local CPU AI, source study tools, supported visual practice and optional public updates. Reviewed host context handoff and checked installation into a new folder; full hosted-app offline operation remains outside this preview.",
+    "version": "0.7.1",
+    "publishedAt": "2026-10-19T08:59:18.515Z",
+    "notes": "BOYD by Hridaan Labs Windows preview. Source-limited person lookups, dated official-source notes, local CPU AI, study tools, visual practice and optional public updates. Reviewed host context handoff and checked installation into a new folder; full hosted-app offline operation remains outside this preview.",
     "artifact": {
-      "url": "https://github.com/PrashantPushkar/boyd-releases/releases/download/v0.7.0/BOYD-0.7.0-win-x64.zip",
-      "sha256": "e84fa151ef733c178546a654acd084a97effd57d780c663710995b5b2a6eeb0d",
-      "bytes": 562689987
+      "url": "https://github.com/PrashantPushkar/boyd-releases/releases/download/v0.7.1/BOYD-0.7.1-win-x64.zip",
+      "sha256": "689c5aea4807214c1bfecafcd0a78eafda463a774d482b5785974b4126f7e027",
+      "bytes": 562694702
     }
   },
-  "signature": "lHVDZLuQt/l+rkoyHFsNFg4mj36rSNf2PpXV6jvCRMntDvPtFgTh9juDIGcZ9sEEHkdGhm8cY170+FhPU0B6CQ=="
+  "signature": "r+shh3loHz5I6p7eXduiI1K7kwdAF8tMth7HtFPMBJEk4X6/SkhtWlmtOBAD6glrkvhBbO7WRiPIAl8kNK7dDg=="
 }
