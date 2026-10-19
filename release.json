@@ -1,0 +1,13 @@
+{
+  "payload": {
+    "version": "0.6.0",
+    "publishedAt": "2026-10-19T06:37:49.683Z",
+    "notes": "BOYD by Hridaan Labs Windows preview. Local CPU AI, source study tools, supported visual practice and optional public updates. Direct hosted-app pairing remains in development.",
+    "artifact": {
+      "url": "https://github.com/PrashantPushkar/boyd-releases/releases/download/v0.6.0/BOYD-0.6.0-win-x64.zip",
+      "sha256": "32405595d9ba9aee7b047e04dde4e994de8ebbaff812a880be4d42696544d06b",
+      "bytes": 562684346
+    }
+  },
+  "signature": "+Mi59ZmlZs0fPnjxt1F4to5RcGz9lcEuNvdva5wrWpqO/RgMwaRgUrRpdTN3dEw4XvFPH8S9A6ZR3eDCH33eBg=="
+}
